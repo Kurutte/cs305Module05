@@ -15,3 +15,11 @@ There will be some slight modifications to try and manage the chaos a little bit
 ## Main Contributor
 
 Me, I'm the one for now lol. Personal project.
+
+## Contributing Partner
+
+Preston Smith
+
+### Project Adictions From Parnter
+
+Plan on adding more support for cards in expension packs for games that already have support
